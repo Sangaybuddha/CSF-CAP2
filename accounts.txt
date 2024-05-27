@@ -1,0 +1,5 @@
+31213,uF0flhOy,personal,0
+{"accountNumber": "1", "accountType": "Personal", "balance": 0, "password": "4zgC"}
+{"accountNumber": "1", "accountType": "Personal", "balance": 0, "password": "UZhO"}
+{"accountNumber": "1", "accountType": "Personal", "balance": 0, "password": "uPFT"}
+{"accountNumber": "1", "accountType": "Business", "balance": 0, "password": "XnUm"}
